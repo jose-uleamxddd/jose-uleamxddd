@@ -25,8 +25,18 @@
 </p>
 
 <div align="center">
+  <h2>Lenguajes<h2/>
   
-  [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,linux,js,ts,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,vscode,py,cpp,html,css,kotlin,graphql)](https://skillicons.dev)
+
+  <h2>Frameworks<h2/>
+
+  [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,nestjs,django,bootstrap,fastapi)](https://skillicons.dev)
+
+  <h2>Tools<h2/>
+
+  [![My Skills](https://skillicons.dev/icons?i=figma,ai,postman,vscode)](https://skillicons.dev)
+
   
 </div>
 
