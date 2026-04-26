@@ -37,7 +37,13 @@
 
   [![My Skills](https://skillicons.dev/icons?i=figma,ai,postman,vscode)](https://skillicons.dev)
 
-  
+  <h2>Tools<h2/>
+
+  [![My Skills](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)
+
+   <h2>Database<h2/>
+
+  [![My Skills](https://skillicons.dev/icons?i=postgres,firebase,supabase)](https://skillicons.dev)
 </div>
 
 
