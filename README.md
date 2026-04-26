@@ -51,7 +51,7 @@
 
 <div align="center">
 
- <h2>Social media</h2>
+ <p>Social media</p>
  
   <a href="https://www.facebook.com/share/18QB364jYc/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
