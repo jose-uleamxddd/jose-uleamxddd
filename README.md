@@ -28,16 +28,7 @@
   
 </div>
 
-<div align="center">
-  
-| Angular Library | License MIT |
-|:-------------:|:-------------:|
-| [![NPM](https://nodei.co/npm/ngx-shift-jis.png)](https://www.npmjs.com/package/ngx-shift-jis)      | [![NPM](https://nodei.co/npm/ngx-flexlayout.png)](https://www.npmjs.com/package/ngx-flexlayout)     |
-| [![NPM](https://nodei.co/npm/ngx-scanner-face.png)](https://www.npmjs.com/package/ngx-scanner-face)      | [![NPM](https://nodei.co/npm/ngx-scanner-text.png)](https://www.npmjs.com/package/ngx-scanner-text)     |
-| [![NPM](https://nodei.co/npm/ngx-print-element.png)](https://www.npmjs.com/package/ngx-print-element)      | [![NPM](https://nodei.co/npm/ngx-scanner-qrcode.png)](https://www.npmjs.com/package/ngx-scanner-qrcode)     |
-| [![NPM](https://nodei.co/npm/ngx-qrcode-styling.png)](https://www.npmjs.com/package/ngx-qrcode-styling)      | [![NPM](https://nodei.co/npm/ngx-scanner-face-mesh.png)](https://www.npmjs.com/package/ngx-scanner-face-mesh)     |
 
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=id1945" height="150" alt="stats graph"  />
@@ -54,9 +45,9 @@
 <hr>
 
 <p align="left">
-My name is Duong Huu Dai. I'm a programmer and a nighttime activist. I believe that technology can be used to improve society, not to improve the richest 1%. Over the past few years as a developer I have also created the library ngx-scanner-qrcode.. on top of the Angular framework a library to develop efficient, convenient barcode processing for programmers. .
+Desarrollador Full Stack Junior con especial interés en frontend, en formación en Ingeniería en Software. Experiencia en desarrollo de interfaces y consumo de APIs, con enfoque en buenas prácticas, rendimiento y usabilidad. Destaco por mi capacidad de liderazgo, trabajo colaborativo y aprendizaje autónomo. Busco integrarme en equipos donde pueda aportar valor mientras continúo fortaleciendo mis habilidades técnicas.
 
-This is my personal github where I have more freedom to share code or more things than I already have. I hope you enjoy my libraries and some of my other stuff at this github and I'd like to thank you for stopping by.
+Full Stack Junior Developer with a strong focus on frontend, currently pursuing a degree in Software Engineering. Experienced in building user interfaces and consuming APIs, with an emphasis on best practices, performance, and usability. I stand out for my leadership skills, collaborative mindset, and self-driven learning. I am seeking to join a team where I can contribute value while continuing to strengthen my technical skills.
 
 </p>
 
