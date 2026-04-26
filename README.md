@@ -47,8 +47,12 @@
   
 </div>
 
+<hr>
 
 <div align="center">
+
+ <h2>Social media</h2>
+ 
   <a href="https://www.facebook.com/share/18QB364jYc/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
@@ -61,6 +65,9 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
+<hr>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jose-uleamxddd" height="150" alt="stats graph"  />
