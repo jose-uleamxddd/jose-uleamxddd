@@ -31,7 +31,7 @@
 
   <h2>Frameworks</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,nestjs,django,bootstrap,fastapi)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,nestjs,django,bootstrap,fastapi,prisma)](https://skillicons.dev)
 
   <h2>Tools</h2>
 
@@ -44,9 +44,30 @@
    <h2>Database</h2>
 
   [![My Skills](https://skillicons.dev/icons?i=postgres,firebase,supabase)](https://skillicons.dev)
+  
 </div>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=1A2AF7&center=true&multiline=true&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Jose+)](https://git.io/typing-svg)
+</div>
 
+<p align="center">
+  <img src="https://twistedsifter.com/wp-content/uploads/2018/12/bear-waving.jpg?w=800" height="400"/>
+</p>
+
+<div align="center">
+  <a href="https://www.facebook.com/share/18QB364jYc/?mibextid=wwXIfr">
+    ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+  </a>
+  <a href="https://www.instagram.com/jdvg_music?igsh=MXhsNGc1MGphOW94MA%3D%3D&utm_source=qr">
+    ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+  </a>
+  <a href="https://www.linkedin.com/in/jose-david-pacheco-chalen-31b10037b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  </a>
+  
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jose-uleamxddd" height="150" alt="stats graph"  />
@@ -65,10 +86,10 @@ Full Stack Junior Developer with a strong focus on frontend, currently pursuing 
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=id1945" alt="id1945"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-uleamxddd" alt="jose-uleamxddd"/> </p>
 
 ---
 
-Credits: [id1945](https://github.com/id1945)
+Credits: [jose-uleamxddd](https://github.com/https://raw.githubusercontent.com)
 
 Last Edited on: 26/4/2026
